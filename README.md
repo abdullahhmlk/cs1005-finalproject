@@ -1,9 +1,9 @@
 # CS1005 - Discrete Structures (Fall 2026): Finding Network Motifs in an Email Network
 
 ## Group Members
-* **Member 1 (Leader):** Waleed Ahmad — `25m0502` (Section X)
-* **Member 2:** Abdullah Safeer — `25k0935` (Section X)
-* **Member 3:** Maisam Ahmad — `25k0504` (Section X)
+* **Member 1 (Leader):** Waleed Ahmad — `25m0502` (A)
+* **Member 2:** Abdullah Safeer — `25k0935` (A)
+* **Member 3:** Maisam Ahmad — `25k0504` (A)
 
 ## Group Parameters ($R$)
 * **Group Number ($R$):** `TBD`
